@@ -5,3 +5,9 @@ C:\Users\LT5244\source\repos\FaxGateway\FaxGateway.WCF.FaxServices\obj\Debug\Fax
 C:\Users\LT5244\source\repos\FaxGateway\FaxGateway.WCF.FaxServices\obj\Debug\FaxGateway.WCF.FaxServices.csproj.CoreCompileInputs.cache
 C:\Users\LT5244\source\repos\FaxGateway\FaxGateway.WCF.FaxServices\obj\Debug\FaxGateway.WCF.FaxServices.dll
 C:\Users\LT5244\source\repos\FaxGateway\FaxGateway.WCF.FaxServices\obj\Debug\FaxGateway.WCF.FaxServices.pdb
+Z:\VMExpertise\SOAP\WCFFaxGateway\-FaxGateway.WCF.FaxServices\bin\FaxGateway.WCF.FaxServices.dll.config
+Z:\VMExpertise\SOAP\WCFFaxGateway\-FaxGateway.WCF.FaxServices\bin\FaxGateway.WCF.FaxServices.dll
+Z:\VMExpertise\SOAP\WCFFaxGateway\-FaxGateway.WCF.FaxServices\bin\FaxGateway.WCF.FaxServices.pdb
+Z:\VMExpertise\SOAP\WCFFaxGateway\-FaxGateway.WCF.FaxServices\obj\Debug\FaxGateway.WCF.FaxServices.csprojResolveAssemblyReference.cache
+Z:\VMExpertise\SOAP\WCFFaxGateway\-FaxGateway.WCF.FaxServices\obj\Debug\FaxGateway.WCF.FaxServices.dll
+Z:\VMExpertise\SOAP\WCFFaxGateway\-FaxGateway.WCF.FaxServices\obj\Debug\FaxGateway.WCF.FaxServices.pdb

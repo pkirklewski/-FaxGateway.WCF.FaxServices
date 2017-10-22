@@ -1,1 +1,0 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="FaxGateway.WCF.FaxServices.CheckFaxGateway" CodeBehind="CheckFaxGateway.svc.cs" %>
